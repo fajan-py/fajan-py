@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fatemeh Jannati</h1>
+<h1 align="center">Hi 👋, I'm Fatemeh Jannati, M.D</h1>
 <h3 align="center">I'm a medical doctor with a passion for radiology, machine learning, and deep learning. I’m particularly fascinated by how AI can enhance medical imaging and predictive analytics, helping to improve diagnostics and patient care. With a strong foundation in Python, Pytorch, Torchio, NumPy, and Pandas, I enjoy working with data and medical images to uncover insights and develop AI-driven healthcare solutions. My goal is to bridge the gap between medicine and technology, making a meaningful impact in the field of medical AI.</h3>
 
 - 🔭 I’m currently working on **deep learning in medical imaging field in different modalities.**
+- I'm a constant learner striving to keep up with new technologies.
 
 - 👨‍💻 All of my projects are available at [https://github.com/fajan-py](https://github.com/fajan-py)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
